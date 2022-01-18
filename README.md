@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rebeccaknowlton
+- Statistics PhD Student at UT Austin
+- 3 Years Experience in Actuarial Science
+- Summer 2021 Data Science Internship at Apple
+- Upcoming Summer 2022 Data Science Internship at Microsoft
