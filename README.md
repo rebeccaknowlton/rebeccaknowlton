@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rebeccaknowlton
-- Statistics PhD Student at UT Austin
+- 4th Year Statistics PhD Student at UT Austin
+- Advised by Layla Parast
 - 3 Years Experience in Actuarial Science
 - Summer 2021 Data Science Internship at Apple
-- Summer 2022 Data Science Internship at Microsoft
+- Summer 2022 & 2023 Data Science Internship at Microsoft
